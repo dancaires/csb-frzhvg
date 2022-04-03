@@ -5,15 +5,15 @@
     "main.js.map": "https://dancaires.github.io/csb-frzhvg/static/js/main.aa069e0f.chunk.js.map",
     "runtime-main.js": "https://dancaires.github.io/csb-frzhvg/static/js/runtime-main.35b0bd7c.js",
     "runtime-main.js.map": "https://dancaires.github.io/csb-frzhvg/static/js/runtime-main.35b0bd7c.js.map",
-    "static/js/2.bb223196.chunk.js": "https://dancaires.github.io/csb-frzhvg/static/js/2.bb223196.chunk.js",
-    "static/js/2.bb223196.chunk.js.map": "https://dancaires.github.io/csb-frzhvg/static/js/2.bb223196.chunk.js.map",
+    "static/js/2.21934754.chunk.js": "https://dancaires.github.io/csb-frzhvg/static/js/2.21934754.chunk.js",
+    "static/js/2.21934754.chunk.js.map": "https://dancaires.github.io/csb-frzhvg/static/js/2.21934754.chunk.js.map",
     "index.html": "https://dancaires.github.io/csb-frzhvg/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://dancaires.github.io/csb-frzhvg/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.bb223196.chunk.js.LICENSE.txt": "https://dancaires.github.io/csb-frzhvg/static/js/2.bb223196.chunk.js.LICENSE.txt"
+    "static/js/2.21934754.chunk.js.LICENSE.txt": "https://dancaires.github.io/csb-frzhvg/static/js/2.21934754.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35b0bd7c.js",
-    "static/js/2.bb223196.chunk.js",
+    "static/js/2.21934754.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.aa069e0f.chunk.js"
   ]
